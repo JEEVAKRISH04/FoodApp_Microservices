@@ -1,0 +1,4 @@
+com\foodapp\cart\repository\CartItemRepository.class
+com\foodapp\cart\entity\CartItem.class
+com\foodapp\cart\CartServiceApplication.class
+com\foodapp\cart\controller\CartController.class

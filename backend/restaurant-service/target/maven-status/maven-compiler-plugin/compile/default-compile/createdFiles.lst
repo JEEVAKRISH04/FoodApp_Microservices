@@ -1,0 +1,4 @@
+com\foodapp\restaurant\controller\RestaurantController.class
+com\foodapp\restaurant\repository\RestaurantRepository.class
+com\foodapp\restaurant\entity\Restaurant.class
+com\foodapp\restaurant\RestaurantServiceApplication.class

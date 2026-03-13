@@ -1,0 +1,4 @@
+com\foodapp\menu\repository\MenuItemRepository.class
+com\foodapp\menu\entity\MenuItem.class
+com\foodapp\menu\MenuServiceApplication.class
+com\foodapp\menu\controller\MenuController.class
